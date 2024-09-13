@@ -1,0 +1,6 @@
+music21 
+pyswarm 
+mido 
+pretty_midi
+librosa
+midi2audio
