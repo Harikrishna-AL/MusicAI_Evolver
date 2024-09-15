@@ -1,4 +1,4 @@
-# AI meldoy generator using Collective Intelligence
+# AI meldoy generator using Evolutionary Algorithms
 
 ## Description
 This project is a simple AI melody generator using evolutionary algorithms. The AI just tries to generate similar melody given to the input audio file using a simple fitness function. Although better outputs can be achieved using more complex fitness functions like NNs to evaluate the fitness of the generated melody.
@@ -7,7 +7,7 @@ This project is a simple AI melody generator using evolutionary algorithms. The 
 <!-- play an sample audio file -->
 <div align="center" style="margin-left:20%; margin-right:20%">
 <audio controls>
-    <source src="./input/sad-melancolic.mp3" type="audio/mpeg">
+    <source src="input/sad-melancolic.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
 </audio>
 <audio controls>
