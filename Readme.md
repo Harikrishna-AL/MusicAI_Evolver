@@ -6,13 +6,10 @@ This project is a simple AI melody generator using evolutionary algorithms. The 
 ## Examples
 <!-- play an sample audio file -->
 <div align="center" style="margin-left:20%; margin-right:20%">
-<audio controls>
-    <source src="input/sad-melancolic.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-</audio>
-<audio controls>
-  <source src="./output.wav" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+
+
+https://github.com/user-attachments/assets/4c8368c1-3e8d-4738-9547-9b434abd2270
+
+https://github.com/user-attachments/assets/f48bcf42-719a-4d5e-96a6-9f8856a064fd
 </div>
-The audio sample on the left is the input audio file and the audio sample on the right is the generated melody.
+The first audio sample is the input audio file and the audio sample at the bottom is the generated melody.
